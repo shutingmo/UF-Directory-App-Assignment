@@ -5,4 +5,6 @@
 .tableWrapper {
   max-height: 400px;
   overflow: auto;
+  font-size: 15px;  
 }
+
